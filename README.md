@@ -1,6 +1,6 @@
 # 🚀 TechNova DAO
 
-![Banner TechNova DAO](assets/banner.png)
+![Banner TechNova DAO](banner.png)
 
 ## 🌐 Visão Geral
 A **TechNova DAO** é uma Organização Autônoma Descentralizada focada em fomentar a inovação tecnológica. Nosso objetivo é financiar projetos open-source e apoiar desenvolvedores através de governança transparente e colaborativa.
